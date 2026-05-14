@@ -1,0 +1,25 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="900" y2="1100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7EC"/>
+      <stop offset="0.5" stop-color="#EAF1FF"/>
+      <stop offset="1" stop-color="#F6E7FF"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(680 220) rotate(120) scale(500 380)">
+      <stop stop-color="#9F7AEA" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#9F7AEA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1100" rx="72" fill="url(#g)"/>
+  <rect width="900" height="1100" rx="72" fill="url(#r)"/>
+  <g opacity="0.45">
+    <path d="M120 250C280 150 370 325 530 230C635 168 720 205 795 265" stroke="#2F3A4A" stroke-width="6" stroke-linecap="round"/>
+    <path d="M115 810C240 705 350 895 525 760C635 675 720 700 795 770" stroke="#2F3A4A" stroke-width="6" stroke-linecap="round"/>
+    <rect x="145" y="315" width="610" height="360" rx="34" stroke="#2F3A4A" stroke-width="6"/>
+    <path d="M210 390H690M210 465H690M210 540H690M210 615H690" stroke="#2F3A4A" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+    <path d="M270 350V640M390 350V640M510 350V640M630 350V640" stroke="#2F3A4A" stroke-width="3" stroke-linecap="round" opacity="0.45"/>
+  </g>
+  <circle cx="450" cy="505" r="138" fill="#fff" fill-opacity="0.72"/>
+  <text x="450" y="530" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="98" font-weight="800" fill="#1F2937">JS</text>
+  <text x="450" y="705" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650" fill="#374151">Replace with your photo</text>
+</svg>
